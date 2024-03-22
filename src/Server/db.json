@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "f5d9",
+      "name": "Adesh Dhumal",
+      "dob": "2001-09-25",
+      "email": "adesh123@gmail.com",
+      "mobile": "8177907334",
+      "password": "Adesh@123"
+    },
+    {
+      "id": "e60b",
+      "name": "Atharva Harmale",
+      "dob": "2001-10-05",
+      "email": "atharva@gmail.com",
+      "mobile": "9688899997",
+      "password": "Atharva@123"
+    },
+    {
+      "id": "276e",
+      "name": "Tushar Khandagale",
+      "dob": "2001-12-12",
+      "email": "tushar@gmail.com",
+      "mobile": "8177907354",
+      "password": "Tushar@123"
+    }
+  ]
+}
